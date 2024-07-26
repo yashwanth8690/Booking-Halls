@@ -1,0 +1,4 @@
+to book the hotel we need to login to the app
+and we can also check the halls which are available 
+and we can check the the images of the hall also 
+we can also make the payment online also 
